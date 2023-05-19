@@ -1,3 +1,3 @@
-# Pro Imagem
+# Process Imagem
 
 Processamento de Imagem
